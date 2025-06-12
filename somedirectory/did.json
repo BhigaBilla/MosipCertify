@@ -6,7 +6,7 @@
   "id": "did:web:BhigaBilla.github.io:MosipCertify:somedirectory",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkedTJUmxYfVyB8CA3ttxVKEUyh31irpxq88mbT7SpuLgV",
+      "publicKeyMultibase": "z6MkvT649fzDWCEoRfHGp839VTkYFNjwWxpS4SmW19eXbrpU",
       "controller": "did:web:BhigaBilla.github.io:MosipCertify:somedirectory",
       "id": "did:web:BhigaBilla.github.io:MosipCertify:somedirectory#key-0",
       "type": "Ed25519VerificationKey2020",
